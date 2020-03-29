@@ -26,6 +26,7 @@ public class Book {
 	public Integer getBid() {
 		return bid;
 	}
+	// setMethod
 	public void setBid(Integer bid) {
 		this.bid = bid;
 	}
